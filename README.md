@@ -8,6 +8,16 @@ The project integrates multiple electric vehicle datasets with MySQL database ma
 
 ---
 
+## ❗ Problem Statement
+
+Electric vehicle data is available across multiple sources, making it difficult for users, analysts, and organizations to analyze vehicle performance, pricing, charging infrastructure, and market trends effectively.
+
+Users often face challenges in comparing different EV brands, understanding vehicle efficiency, identifying charging station availability, and gaining meaningful insights from large datasets.
+
+This project aims to develop an interactive Electric Vehicle Analytics platform that integrates multiple EV datasets using MySQL, performs data analysis using SQL, and provides visual insights through Tableau dashboards and stories.
+
+---
+
 ## 🎯 Purpose
 
 The main objective of this project is to provide a centralized analytics platform that helps users understand electric vehicle data through interactive visualizations.
@@ -198,11 +208,17 @@ Electric-Cars-Analytics/
 └── README.md
 
 
----
-
 # 🚀 How to Run Web Application
 
-click Fn+F5 by selecting html page 
+1. Open the project folder.
+
+2. Navigate to:
+
+templates/index.html
+
+3. Open the HTML file in a browser.
+
+4. The webpage displays the embedded Tableau Dashboard and Story.
 
 ---
 
@@ -251,11 +267,11 @@ The dashboard enables users to understand EV market trends, compare vehicles, an
 
 # 👨‍💻 Developed By
 
-**Varun Nagasai Mamidipaka--Team Lead**
-**B.J.S.Shanmukh--Member**
-**P.Sumanth Yadav--Member**
+**Varun Nagasai Mamidipaka** - Team Lead  
+**B.J.S. Shanmukh** - Team Member  
+**P. Sumanth Yadav** - Team Member  
 
-B.Tech - Artificial Intelligence & Machine Learning
+B.Tech - Artificial Intelligence & Machine Learning  
 Vignan's Lara Institute of Technology and Science
 
-Data Analytics | SQL | Tableau | Python
+Skills: SQL | Tableau | Python | Data Analytics
